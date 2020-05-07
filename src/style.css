@@ -1,0 +1,88 @@
+body{
+    background-image: url("universitatea.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body li{
+    list-style-type:none;
+}
+.nav-bar{
+    background: lightskyblue;
+    height: 50px;
+    width: 1090px;
+    margin-left: 400px;
+}
+
+.content{
+    text-align: center;
+}
+
+.content table{
+    margin: 0 auto;
+}
+
+.nav-bar a {
+    float: right;
+    margin-top: -50px;
+    font-size:25px;
+    text-decoration: none;
+    color:black;
+}
+
+.nav-bar p{
+    padding-top:5px;
+    font-size: 25px;
+}
+
+.nav-bar a:hover {
+    color:white;
+}
+.nav-bar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#leftSide{
+    margin-left:400px;
+    margin-right: 50px;
+    float:left;
+    background: lightskyblue;
+}
+
+#right-side{
+    float:left;
+    width:800px;
+    background-color: lightskyblue;
+}
+
+
+#leftSide li a{
+    text-decoration: none;
+    margin-left: -35px;
+    font-size:30px;
+    color: black;
+}
+
+
+#leftSide ul{
+    width: 200px;
+}
+
+#leftSide a:hover{
+    color:white;
+}
+
+#leftSide li{
+    list-style-type:none;
+}
+.table-ed td{
+    border:1px solid;
+}
+.table-ed th{
+    border:1px solid;
+}
+.table-ed{
+    border:1px solid;
+}
